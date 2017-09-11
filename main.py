@@ -11,6 +11,9 @@ output_dict = {}
 start_date = "20170101"
 end_date = "20170630"
 
+output_dict["start_date"] = start_date
+output_dict["end_date"] = end_date
+
 wants_busy_days = False
 wants_biggest_loser = False
 wants_max_daily_profit = False
